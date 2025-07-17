@@ -16,7 +16,7 @@ For this project download a few of the sample phishing emails, however make sure
 <br />
 <br />
 For this project I will be using Bitdefender Security as it has an email protection feature: <br/>
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20142236.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20221732.png?raw=true)
 <br />
 <br />
 I have sent some of the phishing emails to the email account that I have paired with Bitdefender:   <br/>
