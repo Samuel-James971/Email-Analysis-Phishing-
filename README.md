@@ -41,7 +41,7 @@ By opening the email in a text editor, the Return Path field becomes visible wit
 <br />
 This method also allows for the identification of the sender’s IP address within the email headers. By cross referencing the IP using two reputable IP lookup services, I found that the address had not been previously reported for malicious activity. However, based on the other indicators such as mismatched URLs and inconsistent Return Path data it can confidently concluded that these emails are suspicious and should not be opened: 
 
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20161352.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20223208.png?raw=true)
 
 
 
