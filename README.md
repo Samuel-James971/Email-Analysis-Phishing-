@@ -12,7 +12,7 @@ Head to the github repository phishing pot, here is a curated collection of real
 <br />
 <br />
 For this project download a few of the sample phishing emails, however make sure this is done inside a VM for safety purposes:  <br/>
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20141747.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20221354.png?raw=true)
 <br />
 <br />
 For this project I will be using Bitdefender Security as it has an email protection feature: <br/>
