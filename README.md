@@ -24,7 +24,7 @@ I have sent some of the phishing emails to the email account that I have paired 
 <br />
 <br />
 As you can see Bitdefender has flagged these emails as dangerous, in a real world context, it would be our responsibility to conduct an analysis of these messages to identify any suspicious content:  <br/>
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20161240.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20221653.png?raw=true)
 <br />
 <br />
 One method of identifying suspicious content is through URL analysis. In this case, the URL embedded in the email (cradletool.com) does not align with the sender, which references a Hulu membership. This mismatch is a strong indicator of potential phishing activity. :  <br/>
