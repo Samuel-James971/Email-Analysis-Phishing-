@@ -28,7 +28,7 @@ As you can see Bitdefender has flagged these emails as dangerous, in a real worl
 <br />
 <br />
 One method of identifying suspicious content is through URL analysis. In this case, the URL embedded in the email (cradletool.com) does not align with the sender, which references a Hulu membership. This mismatch is a strong indicator of potential phishing activity. :  <br/>
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20161352.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20222317.png?raw=true)
 <br />
 <br />
 Further analysis can be done on the URL using symantec sitereview, this shows that the URL is categorized as a security risk:
