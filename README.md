@@ -32,7 +32,7 @@ One method of identifying suspicious content is through URL analysis. In this ca
 <br />
 <br />
 Further analysis can be done on the URL using symantec sitereview, this shows that the URL is categorized as a security risk:
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20161352.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20222538.png?raw=true)
 <br />
 <br />
 By opening the email in a text editor, the Return Path field becomes visible within the header information. In this instance, the Return Path does not correspond with the display name of the sender, which is a common red flag indicating suspicous activity:
