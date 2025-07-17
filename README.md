@@ -8,7 +8,7 @@ This project focuses on the detection and analysis of phishing emails through a 
 <p align="center">
 Head to the github repository phishing pot, here is a curated collection of real phishing email samples that have been captured through honeypots: <br/>
 
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-09%20094109.pdf.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20190445.png?raw=true)
 <br />
 <br />
 For this project download a few of the sample phishing emails, however make sure this is done inside a VM for safety purposes:  <br/>
