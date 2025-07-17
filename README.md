@@ -43,6 +43,7 @@ This method also allows for the identification of the sender’s IP address with
 
 ![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20223208.png?raw=true)
 ![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20223419.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20223153.png?raw=true)
 
 
 
