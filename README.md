@@ -36,7 +36,7 @@ Further analysis can be done on the URL using symantec sitereview, this shows th
 <br />
 <br />
 By opening the email in a text editor, the Return Path field becomes visible within the header information. In this instance, the Return Path does not correspond with the display name of the sender, which is a common red flag indicating suspicous activity:
-![image alt](https://github.com/Samuel-James971/AI-Workflow-Automation/blob/main/Screenshot%202025-07-08%20161352.png?raw=true)
+![image alt](https://github.com/Samuel-James971/Email-Analysis-Phishing-/blob/main/Screenshot%202025-07-16%20222845.png?raw=true)
 <br />
 <br />
 This method also allows for the identification of the sender’s IP address within the email headers. By cross referencing the IP using two reputable IP lookup services, I found that the address had not been previously reported for malicious activity. However, based on the other indicators such as mismatched URLs and inconsistent Return Path data it can confidently concluded that these emails are suspicious and should not be opened: 
